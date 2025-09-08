@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Tetris.csproj": {}
+    "C:\\Users\\floows\\Documents\\# school\\WPF-Tetris\\Tetris\\Tetris.csproj": {}
   },
   "projects": {
-    "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Tetris.csproj": {
+    "C:\\Users\\floows\\Documents\\# school\\WPF-Tetris\\Tetris\\Tetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Tetris.csproj",
+        "projectUniqueName": "C:\\Users\\floows\\Documents\\# school\\WPF-Tetris\\Tetris\\Tetris.csproj",
         "projectName": "Tetris",
-        "projectPath": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Tetris.csproj",
+        "projectPath": "C:\\Users\\floows\\Documents\\# school\\WPF-Tetris\\Tetris\\Tetris.csproj",
         "packagesPath": "C:\\Users\\floows\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\obj\\",
+        "outputPath": "C:\\Users\\floows\\Documents\\# school\\WPF-Tetris\\Tetris\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
