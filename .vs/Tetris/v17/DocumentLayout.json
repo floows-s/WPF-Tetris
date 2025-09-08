@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\floows\\Documents\\# school\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|c:\\users\\floows\\documents\\# school\\tetris\\tetris\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2E175E2-E4D1-422A-BEAA-900DF53C3301}|Tetris\\Tetris.csproj|solutionrelative:tetris\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-08T13:51:42.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockQueue.cs",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeDocumentMoniker": "Tetris\\BlockQueue.cs",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeToolTip": "Tetris\\BlockQueue.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:21:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-08T11:27:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\GameState.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameState.cs",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\GameState.cs",
+              "RelativeToolTip": "Tetris\\GameState.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAcwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:29:20.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tetris",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeDocumentMoniker": "Tetris\\Tetris.csproj",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeToolTip": "Tetris\\Tetris.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-08T13:48:14.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Position.cs",
+              "RelativeDocumentMoniker": "Tetris\\Position.cs",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\Position.cs",
+              "RelativeToolTip": "Tetris\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:59:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\floows\\Documents\\# school\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:27:06.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
