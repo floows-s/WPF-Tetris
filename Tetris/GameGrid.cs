@@ -26,7 +26,7 @@ namespace Tetris
 
         public bool IsInside(int r, int c)
         {
-            return r >= 0 && r <= Rows && c >= 0 && c <= Columns;
+            return r >= 0 && r < Rows && c >= 0 && c < Columns;
         }
 
         public bool IsEmpty(int r, int c)
@@ -65,7 +65,7 @@ namespace Tetris
         {
             for (int c = 0; c < Columns; c++)
             {
-                grid[r + amount, c] = grid[r + amount, c];
+                grid[r + amount, c] = grid[r, c];
                 grid[r, c] = 0;
             }
         }
